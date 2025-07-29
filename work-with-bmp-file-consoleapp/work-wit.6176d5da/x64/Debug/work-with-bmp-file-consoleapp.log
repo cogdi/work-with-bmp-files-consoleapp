@@ -1,0 +1,4 @@
+﻿  work-with-bmp-file-consoleapp.cpp
+D:\C++\work-with-bmp-files-conoleapp\work-with-bmp-file-consoleapp\work-with-bmp-file-consoleapp.cpp(160,46): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\C++\work-with-bmp-files-conoleapp\work-with-bmp-file-consoleapp\work-with-bmp-file-consoleapp.cpp(168,30): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+  work-with-bmp-file-consoleapp.vcxproj -> D:\C++\work-with-bmp-files-conoleapp\work-with-bmp-file-consoleapp\x64\Debug\work-with-bmp-file-consoleapp.exe
